@@ -1,0 +1,29 @@
+There were mainly three types of in-store promotions used: BOGO, discounts, and special events. These were the stats 
+
+| Promotion Type  | Avg. Weekly Sales Before | Avg. During | Avg. Sales Lift % |
+| --------------- | ------------------------ | ----------- | ----------------- |
+| Buy-One-Get-One | 38,500                   | 50,000      | **30.44%**        |
+| Discount        | 36,000                   | 48,778      | **36.84%**        |
+| Special Event   | 36,000                   | 49,625      | **38.20%**        |
+
+We can see that the special events yield the highest results, so it is better to employ them.
+
+Next,
+ADDITIONAL DATA INCLUSION :
+1) customer demographics 
+2) weather patterns in that location 
+3) holidays and weekends
+4)economic data 
+5) Calendar aligning
+
+CONTROL STRATEGY:
+Since we do not have any other store's data, we can use the pre-promotion data as a baseline for comparison. Additionally, we should match variables such as store size, location (urban/suburban), and regions.
+
+TESTING DURATIONS :
+I think a solid month should be enough to accommodate all the variables like weather , calendar, weekends, etc, and for longer promotions, maybe a longer period of 1 and a half months should be considered. 
+
+RECOMMENDATIONS:
+use the brand image of sustainability to align with the promotions to reinforce the identity of the brand. 
+So maybe use recyclable bags, return bags, and get discounts , and bringing your bags could help with this as well. 
+using special events to highlight how the brand uses sustainable and eco-friendly products to highlight the catch point of sustainability to the customers 
+
